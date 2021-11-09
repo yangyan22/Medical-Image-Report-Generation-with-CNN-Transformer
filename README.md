@@ -36,5 +36,7 @@ https://github.com/cuhksz-nlp/R2Gen
 
 https://github.com/tylin/coco-caption
 
+# Please obtain the metrics from pycocoevalcap
+
 
 
